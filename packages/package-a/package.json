@@ -1,0 +1,7 @@
+{
+  "name": "@monorepo-example/package-a",
+  "version": "1.0.0",
+  "dependencies": {
+    "@monorepo-example/package-b": "^1.0.0"
+  }
+}
